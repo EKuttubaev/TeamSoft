@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lSqtOaePoTVudmBXre1IO4Myd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/classwork41re" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Teamsoft\teamsoft\static\js" />
+      <recent name="E:\Teamsoft\teamsoft\static\fonts" />
+      <recent name="E:\Teamsoft\teamsoft\static\owl-carousel" />
+      <recent name="E:\Teamsoft\teamsoft\static\css" />
+      <recent name="E:\Teamsoft\teamsoft\static\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartDjango" type="PythonConfigurationType" factoryName="Python">
+      <module name="Teamsoft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Teamsoft\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="E:/Teamsoft" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/Teamsoft/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="" />
+      <created>1607601053752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607601053752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607609962848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607609962848" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607601145700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607601145700" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607618092190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607618092190" />
+    <state width="1306" height="192" key="GridCell.Tab.0.bottom" timestamp="1607789970236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
+    <state width="1306" height="192" key="GridCell.Tab.0.center" timestamp="1607789970236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
+    <state width="1306" height="192" key="GridCell.Tab.0.left" timestamp="1607789970236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
+    <state width="1306" height="192" key="GridCell.Tab.0.right" timestamp="1607789970236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
+  </component>
+</project>
