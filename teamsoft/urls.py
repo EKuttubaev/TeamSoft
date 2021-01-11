@@ -16,11 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from teamsoft.views import IndexView, FeedbackHandler, NewFormTest
+from teamsoft.views import IndexView, FeedbackHandler
 
 urlpatterns = [
     #path('', IndexView.as_view(), name="index"),
     path('', FeedbackHandler.as_view(), name="feedback"),
-    path('newformtest/', NewFormTest.as_view(), name="newformtest"),
     path('admin/', admin.site.urls),
 ]

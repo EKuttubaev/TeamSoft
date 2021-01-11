@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="" />
+    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/templates/formtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/templates/newformtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamsoft/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +50,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lSqtOaePoTVudmBXre1IO4Myd7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +65,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="E:/classwork41re" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,13 +84,15 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="EMAIL_USERNAME" value="kuttubaev@gmail.com" />
+        <env name="EMAIL_PASSWORD" value="55947433201erkin" />
       </envs>
       <option name="SDK_HOME" value="E:\Teamsoft\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="E:/Teamsoft" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:/Teamsoft/manage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
       <option name="PARAMETERS" value="runserver" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,34 +115,54 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607609962848">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608131036802">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607609962848" />
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607601145700">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608131036802" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607934367344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607601145700" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607934367344" />
+    <state x="550" y="118" width="685" height="491" key="EnvironmentVariablesDialog" timestamp="1608131035722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="118" width="685" height="491" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608131035722" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607618092190">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607618092190" />
-    <state width="1306" height="192" key="GridCell.Tab.0.bottom" timestamp="1607789970236">
+    <state width="1322" height="197" key="GridCell.Tab.0.bottom" timestamp="1608524939825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
-    <state width="1306" height="192" key="GridCell.Tab.0.center" timestamp="1607789970236">
+    <state width="1322" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
+    <state width="1322" height="197" key="GridCell.Tab.0.center" timestamp="1608524939825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
-    <state width="1306" height="192" key="GridCell.Tab.0.left" timestamp="1607789970236">
+    <state width="1322" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
+    <state width="1322" height="197" key="GridCell.Tab.0.left" timestamp="1608524939825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
-    <state width="1306" height="192" key="GridCell.Tab.0.right" timestamp="1607789970236">
+    <state width="1322" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
+    <state width="1322" height="197" key="GridCell.Tab.0.right" timestamp="1608524939825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607789970236" />
+    <state width="1322" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608133006923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608133006923" />
   </component>
 </project>

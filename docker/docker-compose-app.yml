@@ -1,0 +1,33 @@
+version: "3.3"
+
+services:
+  teamsoft_app:
+    image: teamsoft_app:1.0
+    container_name: teamsoft
+    restart: always
+    environment:
+      - ABC=lol
+    volumes:
+      - /opt/projects/teamsoft_app/logs:/code/logs
+    ports:
+      - 8000:8000
+    networks:
+      teamsoft_net:
+  postgres:
+    image: postgres:9.6
+    container_name: postgres
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - /opt/projects/teamsoft_app/pg_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=feedback_db
+      - POSTGRES_USER=teamsoft_user
+      - POSTGRES_PASSWORD=passteamsoft123
+    networks:
+      teamsoft_net:
+
+
+networks:
+  teamsoft_net:

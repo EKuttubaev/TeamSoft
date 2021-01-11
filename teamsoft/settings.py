@@ -113,3 +113,14 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/teamsoft/static/'
+
+# Email settings
+
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = os.getenv("EMAIL_USERNAME")
+EMAIL_HOST_PASSWORD = os.getenv("EMAIL_PASSWORD")
+RECIPIENTS_EMAIL = ("EMAIL_USERNAME")
+DEFAULT_FROM_EMAIL = 'Teamsoft group'
+DEFAULT_TO_EMAIL = os.getenv("EMAIL_USERNAME")
