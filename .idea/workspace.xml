@@ -19,24 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/templates/formtest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/templates/newformtest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamsoft/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/teamsoft/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
