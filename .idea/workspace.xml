@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="" />
+    <list default="true" id="7c54982c-72c4-48df-a04f-2a4fd32ed51f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,41 +113,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608131036802">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623668211649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608131036802" />
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607934367344">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623668211649" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1622195879473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607934367344" />
-    <state x="550" y="118" width="685" height="491" key="EnvironmentVariablesDialog" timestamp="1608131035722">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="550" y="118" width="685" height="491" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608131035722" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607618092190">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607618092190" />
-    <state width="1322" height="197" key="GridCell.Tab.0.bottom" timestamp="1608524939825">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
-    <state width="1322" height="197" key="GridCell.Tab.0.center" timestamp="1608524939825">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
-    <state width="1322" height="197" key="GridCell.Tab.0.left" timestamp="1608524939825">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
-    <state width="1322" height="197" key="GridCell.Tab.0.right" timestamp="1608524939825">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608524939825" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608133006923">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608133006923" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622195879473" />
   </component>
 </project>
